@@ -106,7 +106,7 @@ Now you've written some code and are ready to commit. Adding and committing will
 
 ```
 git add -A
-git commit -m "Some comment"
+git commit -m "First commit"
 git push
 ```
 
