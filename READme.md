@@ -58,7 +58,7 @@ git --version
 This should be printed out:
 **git version 2.21.0 (Apple Git-122)**
 
-This will check for the version of git downloaded on your computer, and will tell you if you have it installed!
+It is okay if you have an older version
 
 ### 3. Configuring Git
 
