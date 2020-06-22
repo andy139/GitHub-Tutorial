@@ -101,8 +101,7 @@ Congrats! You've successfully added a git repository to your project.
 
 ## 6. Making your first commit to GitHub
 
-Now you've written some code and are ready to commit. Adding and committing will take a snapshot of your code. You need three commands to commit!
-
+Now you've written some code and are ready to commit. You now only need three commands to commit and upload your code onto GitHub:
 
 ```
 git add -A
