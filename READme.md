@@ -2,12 +2,12 @@
 
 - Why do we use git?
 - Basic commands you need to know.
-- A Demo, how to setup your first project on GitHub
+- A Demo, how to setup your first project on GitHub.
 
 
 ## Why we use git
-- Keep track of changes in computer files
-- Multiple people can work on a project at once
+- Keep track of changes in computer files.
+- Multiple people can work on a project at once.
 
 
 ## Git Commands
@@ -89,7 +89,7 @@ When you press create repository, stay on that page! We will need it for later.
 
 ## 5. Lets configure your project for GitHub!
 
-In terminal on VSCode let's type these commands. **git init** will create an empty repo in the current directory. Where **git remote add origin https://github.com/your_username/your_repo_name.git** sets the location of the repo. You can copy and paste this line from the page from when we created the repo on GitHub
+In terminal on VSCode let's type these commands. **git init** will create an empty repo in the current directory. Where **git remote add origin https://github.com/your_username/your_repo_name.git** sets the location of the repo. You can copy and paste this line from the page from when we created the repo on GitHub.
 
 
 ```
@@ -115,13 +115,12 @@ Line by line
 - `git add -A`: adds changes to all files in the working directory to the staging area (Always do this before committing)
 - `git commit -m [Your commit message here]`: A commit message is a brief summary of the changes that we're committing. Your commit message should be descriptive and written in the imperative, so that someone reading your commit history (maybe you!) can understand what you changed. Always start your commit messages with with a capital letter, an imperative verb and leave off any trailing punctuation.
   
-- `git push`:  pushes our local commits to the remote repository (Changes are now accessible on github)
+- `git push`:  pushes our local commits to the remote repository (Changes are now accessible on GitHub server)
 
 
 ## How often to Commit and Push?
 
-Frequently. Pushing to GitHub is good practice! And allows use to back up your work and make your code more portable!!
-
+Frequently. Pushing to GitHub is good practice! I personally commit to git everytime I make changes to my code. I strongly believe the more commits the better :). Protect your code!
 
 
 
