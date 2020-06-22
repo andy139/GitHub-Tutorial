@@ -103,7 +103,6 @@ Now you've written some code and are ready to commit. You need three commands:
 
 
 ```
-git add <files>
 git add -A
 
 git commit -m "Some comment"
