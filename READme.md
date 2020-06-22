@@ -36,9 +36,8 @@ git commit
 ```
 git push
 ```
+
 - This will upload your most recent commits to GitHub
-
-
 
 
 ## Setup, how to get your first project up and running!
@@ -55,10 +54,11 @@ Once downloaded, open up terminal press (**CTRL `**) in VSCode.
 ```
 git --version
 ```
+
 This should be printed out:
 **git version 2.21.0 (Apple Git-122)**
 
-It is okay if you have an older version
+If you have another version, that is completely okay. 
 
 ### 3. Configuring Git
 
