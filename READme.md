@@ -112,10 +112,10 @@ git push
 
 Line by line, what are we looking at?
 
-- **git add -A**: adds changes to all files in the working directory to the staging area (Always do this before committing)
-- **git commit -m `[Your commit message here]`**: A commit message is a brief summary of the changes that we're committing. Your commit message should be descriptive and written in the imperative, so that someone reading your commit history (maybe you!) can understand what you changed. Always start your commit messages with with a capital letter, an imperative verb and leave off any trailing punctuation.
+- `git add -A`: adds changes to all files in the working directory to the staging area (Always do this before committing)
+- `git commit -m [Your commit message here]`: A commit message is a brief summary of the changes that we're committing. Your commit message should be descriptive and written in the imperative, so that someone reading your commit history (maybe you!) can understand what you changed. Always start your commit messages with with a capital letter, an imperative verb and leave off any trailing punctuation.
   
-- **git push**:  pushes our local commits to the remote repository (Changes are no accessible on github)
+- ``git push``:  pushes our local commits to the remote repository (Changes are no accessible on github)
 
 
 
