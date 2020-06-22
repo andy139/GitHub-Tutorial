@@ -97,14 +97,15 @@ git init
 git remote add origin https://github.com/your_username/your_repo_name.git
 ```
 
+Congrats! You've successfully added a git repository to your project. 
+
 ## 6. Making your first commit to GitHub
 
-Now you've written some code and are ready to commit. You need three commands:
+Now you've written some code and are ready to commit. Adding and committing will take a snapshot of your code. You need three commands to commit!
 
 
 ```
 git add -A
-
 git commit -m "Some comment"
 git push
 ```
@@ -119,6 +120,8 @@ Line by line
 
 ## How often to Commit and Push?
 
-Frequently. Pushing to GitHub is good practice!!! And allows use to back up your work and make your code more portable!!
+Frequently. Pushing to GitHub is good practice! And allows use to back up your work and make your code more portable!!
+
+
 
 
