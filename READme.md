@@ -50,7 +50,7 @@ https://git-scm.com/downloads
 
 ### 2. Check if successfully downloaded
 
-Once downloaded, open up terminal (**CTRL `**) in VSCode. 
+Once downloaded, open up terminal press (**CTRL `**) in VSCode. 
 
 ```
 git --version
