@@ -70,7 +70,7 @@ git config --global user.email "your@email.com"
 
 ```
 
-Nice! We've configured your git to your email and username. Now other users will know whos making changes to files. 
+Nice. We've configured your git to your email and username. Now other users will know whos making changes to files. 
 
 
 ## 4. Creating a GitHub Repo
@@ -120,7 +120,7 @@ Line by line
 
 ## How often to Commit and Push?
 
-Frequently. Pushing to GitHub is good practice! I personally commit to git everytime I make changes to my code. I strongly believe the more commits the better :).
+Frequently. Pushing to GitHub is good practice. I personally commit to git everytime I make changes to my code. I strongly believe the more commits the better :).
 
 
 
