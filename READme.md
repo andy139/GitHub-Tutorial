@@ -78,7 +78,7 @@ Okay lets on our now browser and log in to https://github.com. We will create a 
 
 ![Screenshot](screenshots/githublocation.png)
 
-You will now go to this screen below. Feel free to copy my settings. Create repository.
+You will now be prompted screen below. Feel free to copy my settings.
 
 ![Screenshot](screenshots/github.png)
 
