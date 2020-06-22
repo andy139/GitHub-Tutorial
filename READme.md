@@ -120,7 +120,7 @@ Line by line
 
 ## How often to Commit and Push?
 
-Frequently. Pushing to GitHub is good practice! I personally commit to git everytime I make changes to my code. I strongly believe the more commits the better :). Protect your code!
+Frequently. Pushing to GitHub is good practice! I personally commit to git everytime I make changes to my code. I strongly believe the more commits the better :). Protect your code.
 
 
 
