@@ -120,6 +120,6 @@ Line by line
 
 ## How often to Commit and Push?
 
-Frequently. I personally commit to git everytime I make siginificant changes to my code. After a full day of programming, I always push up my code onto GitHub
+Frequently. I personally commit to git everytime I make siginificant changes to my code. After a full day of programming, I always push up my code onto GitHub.
 
 
