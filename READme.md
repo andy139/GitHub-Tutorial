@@ -89,8 +89,9 @@ When you press create repository, stay on that page! We will need it for later.
 
 ## 5. Lets configure your project for GitHub!
 
-In terminal on VSCode let's type these commands. **git init** will create an empty repo in the current directory. Where **git remote add origin https://github.com/your_username/your_repo_name.git** sets the location of the repo. You can copy and paste this line from the page from when we created the repo on GitHub.
 
+
+In terminal on VSCode let's type these commands. **git init** will create an empty repo in the current directory. Where **git remote add origin https://github.com/your_username/your_repo_name.git** sets the location of the repo. You can copy and paste this line from the page from when we created the repo on GitHub. Type the two commands below in terminal.
 
 ```
 git init
